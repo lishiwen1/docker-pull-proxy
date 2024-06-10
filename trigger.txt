@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/lswdedocker/nginx:alpine
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/lswdedocker/xhofe/alist:latest
