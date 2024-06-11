@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/lswdedocker/xhofe/alist:latest
+xhofe/alist:3.35.0 registry.cn-hangzhou.aliyuncs.com/lswdedocker/xhofe/alist:3.35.0
