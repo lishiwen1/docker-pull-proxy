@@ -1,1 +1,1 @@
-registry:2 registry.cn-hangzhou.aliyuncs.com/lswdedocker/registry:2
+xhofe/alist registry.cn-hangzhou.aliyuncs.com/lswdedocker/xhofe/alist
